@@ -1,1 +1,1 @@
-# This is a lovely little webpage I'm making for my funny fellowhsip.
+# This is a lovely little webpage I'm making for my funny fellowship.
