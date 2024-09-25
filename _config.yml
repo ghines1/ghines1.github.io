@@ -1,6 +1,9 @@
 title: Yet Another Website # my top level web title
 description: This is my funky little fellowship webstie. # this tagline ig appears in the site header
 
+author: Gabriel Hines
+locale: "en-US"
+
 remote_theme: raviriley/agency-jekyll-theme
 plugins:
 - jekyll-remote-theme
